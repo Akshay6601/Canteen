@@ -1,0 +1,6 @@
+# Run instructions
+1. docker compose build
+2. docker compose up
+3. frontend: http://localhost:3000
+   backend: http://localhost:8000
+   ml: http://localhost:5001/predict/crowd
